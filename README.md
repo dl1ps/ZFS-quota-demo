@@ -10,3 +10,7 @@ This C file is a minimal example and can be compiled with the one-liner
 outlined in the comments.
 
 Maybe it is useful to other programmers.
+
+References
+
+https://despairlabs.com/blog/posts/2025-03-12-we-should-improve-libzfs-somewhat/
